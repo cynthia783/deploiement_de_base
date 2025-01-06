@@ -1,5 +1,5 @@
 # deploiement_de_base
-Pojet : https://github.com/fredericEducentre/Todolist_php_mysql
+Projet : https://github.com/fredericEducentre/Todolist_php_mysql
 
 installer apache // pour heberger le site en locale. 
 
